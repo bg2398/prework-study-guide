@@ -1,4 +1,4 @@
-# <BG Prework Study Guide>
+# BG Prework Study Guide
 
 ## Description
 This project was for bootcamp students to get an introduction as a developer and learning how to use multiple languages. I Merged files that contain notes from our terminal to github.
